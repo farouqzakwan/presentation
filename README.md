@@ -20,7 +20,7 @@ Anda hanya perlu klik pada butang tambah dan pilih `new repository` untuk hasilk
 
 ![ create new repo](https://github.com/farouqzakwan/presentation/blob/master/screenshot/create%20new%20repo.PNG) 
 
-Merujuk rajah di atas, saya namakan repositori saya yourRepoName. Memandangkan saya telah sedia ada mempunyai sebuah repositori yang kosong, saya akan menggunakan repositori "presentation" untuk tutorial ini.
+Merujuk rajah di atas, saya namakan repositori saya _yourRepoName_. Memandangkan saya telah sedia ada mempunyai sebuah repositori yang kosong, saya akan menggunakan repositori "presentation" untuk tutorial ini.
 
 Kemudian hasilkan sebuah folder yang anda akan gunakan untuk projek anda..
 
