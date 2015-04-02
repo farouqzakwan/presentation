@@ -5,14 +5,14 @@ Pertama sekali apa yang anda perlukan adalah sebuah akaun github dan [git for wi
 Kemudian anda digalakkan untuk mengikuti tutorial di 
 [youtube](https://www.youtube.com/watch?v=_tN0T7jYn0A) untuk proses configuration. Sekiranya anda mengikuti video tutorial tersebut, anda tidak perlulah berulangkali memasukkan password anda.
 
-Sekarang saya mengandaikan anda telah mempunyai akaun github dan telah mengikuti video tutorial di link yang telah saya berikan.
+Sekarang saya mengandaikan anda telah mempunyai akaun github dan telah mengikuti video tutorial di pautan yang tertera diatas.
 
 
 ##1) Hasilkan Repository baru dan folder projek
 
 Untuk menghasilkan repository baru di github amatlah mudah..
 
-Anda hanya perlu klik pada butang tambah dan pilih new repository untuk hasilkan repo baru. Namakan repository anda , kemudian klik butang hijau "create repository":-
+Anda hanya perlu klik pada butang tambah dan pilih `new repository` untuk hasilkan _repo_ baru. Namakan repository anda , kemudian klik butang hijau "`create repository`":-
 
 
 ![new repo](https://github.com/farouqzakwan/presentation/blob/master/screenshot/new%20repo.PNG) 
@@ -20,7 +20,7 @@ Anda hanya perlu klik pada butang tambah dan pilih new repository untuk hasilkan
 
 ![ create new repo](https://github.com/farouqzakwan/presentation/blob/master/screenshot/create%20new%20repo.PNG) 
 
-Dalam gambar di atas, saya namakan repository saya yourRepoName.Memandangkan saya telah sedia ada mempunyai sebuah repository yang kosong, saya akan menggunakan repository "presentation" untuk tutorial ini.
+Dalam gambar di atas, saya namakan repository saya yourRepoName. Memandangkan saya telah sedia ada mempunyai sebuah repository yang kosong, saya akan menggunakan repositori "presentation" untuk tutorial ini.
 
 Kemudian hasilkan sebuah folder yang anda akan gunakan untuk projek anda..
 
@@ -36,7 +36,7 @@ Bagi saya cara begini lebih menyenangkan kerana saya tidak perlu untuk menaip al
 
 ##3) hasilkan file / code
 
-Di dalam folder tutorial saya akan hasilkan sebuah file "farouq.txt" dan isi kandungannya adalah:-
+Di dalam folder tutorial saya akan hasilkan sebuah file "**farouq.txt**" dan isi kandungannya adalah:-
 
 ```
 hai saya farouq
@@ -44,7 +44,7 @@ hai saya farouq
 ![farouq txt](https://github.com/farouqzakwan/presentation/blob/master/screenshot/create%20farouq%20txt.PNG)
 
 
-Tujuan saya hasilkan sebuah file text dan mempunyai kandungan yang amat ringkas adalah supaya memudahkan anda membuat perbandingan setelah kandungan file ini di ubah.
+Tujuan saya hasilkan sebuah fail `text` dan mempunyai kandungan yang amat ringkas adalah supaya memudahkan anda membuat perbandingan setelah kandungan file ini di ubah nanti.
 
 ##4) git init
 
@@ -62,13 +62,13 @@ Arahan ini bermaksud anda sedia menjadikan directory dan subdirectories yang and
 
 Arahan seterusnya adalah:-
 
-```
+```Shell
 $ git add .
 ```
 
 atau 
 
-```
+```Shell
 $ git add farouq.txt
 ```
 
