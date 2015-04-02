@@ -50,7 +50,7 @@ Tujuan saya hasilkan sebuah file text dan mempunyai kandungan yang amat ringkas 
 
 Di dalam perisian git bash anda, taip:-
 
-```
+```Batchfile
 $ git init
 ```
 
