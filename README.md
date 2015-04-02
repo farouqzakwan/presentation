@@ -1,9 +1,9 @@
 # Tutorial github 
 
-Pertama sekali apa yang anda perlukan adalah sebuah akaun github dan [git for windows](https://msysgit.github.io/),jika sekiranya anda menggunakan windows.
+Pertama sekali apa yang anda perlukan adalah sebuah akaun github dan [git for windows](https://msysgit.github.io/), jika sekiranya anda menggunakan windows.
 
 Kemudian anda digalakkan untuk mengikuti tutorial di 
-[youtube](https://www.youtube.com/watch?v=_tN0T7jYn0A) untuk proses configuration.sekiranya anda mengikuti video tutorial tersebut,anda tidak perlulah berulangkali memasukkan password anda.
+[youtube](https://www.youtube.com/watch?v=_tN0T7jYn0A) untuk proses configuration. Sekiranya anda mengikuti video tutorial tersebut, anda tidak perlulah berulangkali memasukkan password anda.
 
 Sekarang saya mengandaikan anda telah mempunyai akaun github dan telah mengikuti video tutorial di link yang telah saya berikan.
 
@@ -12,7 +12,7 @@ Sekarang saya mengandaikan anda telah mempunyai akaun github dan telah mengikuti
 
 Untuk menghasilkan repository baru di github amatlah mudah..
 
-Anda hanya perlu klik pada butang tambah dan pilih new repository untuk hasilkan repo baru..Namakan repository anda , kemudian klik butang hijau "create repository"
+Anda hanya perlu klik pada butang tambah dan pilih new repository untuk hasilkan repo baru. Namakan repository anda , kemudian klik butang hijau "create repository":-
 
 
 ![new repo](https://github.com/farouqzakwan/presentation/blob/master/screenshot/new%20repo.PNG) 
@@ -25,7 +25,7 @@ Dalam gambar di atas, saya namakan repository saya yourRepoName.Memandangkan say
 Kemudian hasilkan sebuah folder yang anda akan gunakan untuk projek anda..
 
 
-Saya telah menghasilkan sebuah folder baru di desktop saya dan saya namakanya "tutorial" dan di dalam folder tersebut saya hasilkan sebuah lagi folder "screenshot". folder screenshot adalah bertujuan untuk menyimpan semua gambar yang diperlukan dalam tutorial ini.
+Saya telah menghasilkan sebuah folder baru di desktop saya dan saya namakanya "tutorial" dan di dalam folder tersebut saya hasilkan sebuah lagi folder "screenshot". *Folder screenshot* adalah bertujuan untuk menyimpan semua gambar yang diperlukan dalam tutorial ini.
 
 
 ##2) Jalankan perisian Git Bash
@@ -36,7 +36,7 @@ Bagi saya cara begini lebih menyenangkan kerana saya tidak perlu untuk menaip di
 
 ##3) hasilkan file / code
 
-Di dalam folder tutorial saya akan hasilkan sebuah file "farouq.txt" dan isi kandungannya adalah
+Di dalam folder tutorial saya akan hasilkan sebuah file "farouq.txt" dan isi kandungannya adalah:-
 
 ```
 hai saya farouq
@@ -48,7 +48,7 @@ Tujuan saya hasilkan sebuah file text dan mempunyai kandungan yang amat ringkas 
 
 ##4) git init
 
-Di dalam perisian git bash anda, taip 
+Di dalam perisian git bash anda, taip:-
 
 ```
 $ git init
@@ -60,7 +60,7 @@ Arahan ini bermaksud anda sedia menjadikan directory dan subdirectories yang and
 
 ##5) git add
 
-Arahan seterusnya adalah 
+Arahan seterusnya adalah:-
 
 ```
 $ git add .
@@ -103,7 +103,7 @@ Arahan in digunakan setelah anda meletakkan file dan code anda dalam keadaan sed
 
 ##8) git log
 
-arahan
+Arahan:-
 ```
 $ git log
 ```
@@ -115,9 +115,9 @@ akan memaparkan log-log commit dan message anda.
 
 ##9) file yang diubah
 
-Seterusnya saya akan mengubah kandungan "farouq.txt" dan menambah beberapa image ke dalam folder screenshot
+Seterusnya saya akan mengubah kandungan `farouq.txt` dan menambah beberapa image ke dalam folder screenshot
 
-kandungan baru dalam farouq.txt ialah
+kandungan baru dalam `farouq.txt` ialah:-
 
 ```
 nama : farouq zakwan
@@ -134,7 +134,7 @@ Setelah melakukan perubahan apa yang perlu di buat ialah mengulangi arahan git a
 
 ##10) push to github
 
-Jika anda masih ingat lagi, di awal tutorial ini saya telah mengajar bagaimana untuk menghasilkan sebuah repository baharu di github dan saya menyatakan yang saya akan  menggunakan repository "presentation" untuk tutorial ini. Sehingga sekarang saya masih lagi belum menulis bagaimana untuk menggunakan nya.
+Jika anda masih ingat lagi, di awal tutorial ini saya telah mengajar bagaimana untuk menghasilkan sebuah repository baharu di github dan saya menyatakan yang saya akan  menggunakan *repository* *presentation* untuk tutorial ini. Sehingga sekarang saya masih lagi belum menulis bagaimana untuk menggunakannya.
 
 Terdapat arahan yang perlu anda taip sebelum anda boleh push code anda ke repository github.
 
@@ -150,7 +150,7 @@ $ git push -u origin master
 
 ##11) Lain-lain
 
-Sehingga saat tutorial ini,banyak lagi perkara yang belum di bincangkan tentang cara penggunaan github..
+Sehingga saat tutorial ini, banyak lagi perkara yang belum di bincangkan tentang cara penggunaan github..
 antara perkara tersebut adalah bagaimana menggunakan github untuk kerjasama kumpulan,menulis README.md dalam format markdown.report an issue.kembali ke snapshot commit yang lepas.
 
 Oleh itu saya amat mengharapkan anda dapat menambah baik tutorial ini dari semasa ke semasa.
