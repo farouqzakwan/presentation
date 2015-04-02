@@ -1,18 +1,18 @@
-# Tutorial github 
+## Kuasai Git 
 
-Pertama sekali apa yang anda perlukan adalah sebuah akaun github dan [git for windows](https://msysgit.github.io/), jika sekiranya anda menggunakan windows.
+Pertama sekali apa yang anda perlukan adalah sebuah akaun github dan [git for windows](https://msysgit.github.io/), sekiranya anda menggunakan platform Windows.
 
-Kemudian anda digalakkan untuk mengikuti tutorial di 
-[youtube](https://www.youtube.com/watch?v=_tN0T7jYn0A) untuk proses configuration. Sekiranya anda mengikuti video tutorial tersebut, anda tidak perlulah berulangkali memasukkan password anda.
+Kemudian anda digalakkan untuk mengaji tutorial di 
+[Youtube](https://www.youtube.com/watch?v=_tN0T7jYn0A) untuk proses **configuration**. Sekiranya anda mengikuti video tutorial tersebut, manfaatnya adalah anda tidak perlulah berulangkali memasukkan password anda.
 
-Sekarang saya mengandaikan anda telah mempunyai akaun github dan telah mengikuti video tutorial di pautan yang tertera diatas.
+Sekarang saya mengandaikan anda telah mempunyai akaun Github dan telah mengaji video tutorial di pautan yang tertera diatas.
 
 
-##1) Hasilkan Repository baru dan folder projek
+##1) Buat sebuah Repository baru dan folder projek
 
-Untuk menghasilkan repository baru di github amatlah mudah..
+Untuk menghasilkan repositori baru di github amatlah mudah..
 
-Anda hanya perlu klik pada butang tambah dan pilih `new repository` untuk hasilkan _repo_ baru. Namakan repository anda , kemudian klik butang hijau "`create repository`":-
+Anda hanya perlu klik pada butang tambah dan pilih `new repository` untuk hasilkan _repo_ baru. Namakan repositori anda , kemudian klik butang hijau `Create Repository`:-
 
 
 ![new repo](https://github.com/farouqzakwan/presentation/blob/master/screenshot/new%20repo.PNG) 
@@ -20,7 +20,7 @@ Anda hanya perlu klik pada butang tambah dan pilih `new repository` untuk hasilk
 
 ![ create new repo](https://github.com/farouqzakwan/presentation/blob/master/screenshot/create%20new%20repo.PNG) 
 
-Dalam gambar di atas, saya namakan repository saya yourRepoName. Memandangkan saya telah sedia ada mempunyai sebuah repository yang kosong, saya akan menggunakan repositori "presentation" untuk tutorial ini.
+Merujuk rajah di atas, saya namakan repositori saya yourRepoName. Memandangkan saya telah sedia ada mempunyai sebuah repositori yang kosong, saya akan menggunakan repositori "presentation" untuk tutorial ini.
 
 Kemudian hasilkan sebuah folder yang anda akan gunakan untuk projek anda..
 
