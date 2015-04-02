@@ -25,14 +25,14 @@ Dalam gambar di atas, saya namakan repository saya yourRepoName.Memandangkan say
 Kemudian hasilkan sebuah folder yang anda akan gunakan untuk projek anda..
 
 
-Saya telah menghasilkan sebuah folder baru di desktop saya dan saya namakanya "tutorial" dan di dalam folder tersebut saya hasilkan sebuah lagi folder "screenshot". *Folder screenshot* adalah bertujuan untuk menyimpan semua gambar yang diperlukan dalam tutorial ini.
+Saya telah menghasilkan sebuah folder baru di desktop saya dan saya namakan ia sebagai "tutorial" dan di dalam folder tersebut saya hasilkan sebuah lagi folder "screenshot". Folder *screenshot* adalah bertujuan untuk menyimpan semua gambar yang diperlukan dalam tutorial ini.
 
 
 ##2) Jalankan perisian Git Bash
 
-Sekarang jalankan perisian Git Bash anda dan tukar directory ke directory folder projek anda.Cara yang saya gunakan ialah, saya membuka folder "tutorial" kemudian klik butang kanan tetikus dan saya pilih "git bash here".
+Sekarang jalankan perisian Git Bash anda dan tukar direktori ke direktori folder projek anda.Cara yang saya gunakan ialah, saya membuka folder **"tutorial"** kemudian tekan butang kanan tetikus dan saya pilih `git bash here`.
 
-Bagi saya cara begini lebih menyenangkan kerana saya tidak perlu untuk menaip directory yang panjang..
+Bagi saya cara begini lebih menyenangkan kerana saya tidak perlu untuk menaip alamat direktori yang panjang.
 
 ##3) hasilkan file / code
 
