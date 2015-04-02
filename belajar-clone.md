@@ -1,3 +1,3 @@
 ## Belajar clone
 
-Clone adalah sebuah proses menyalin repositori sedia ada untuk dijadikan repositori itu milik anda. Ada masa tertentu anda mungkin memerlukan sebuah ciri terbaru bagi projek anda. Jadi ciri tersebut perlu diintergrasi kedalam projek yang telah anda _fork_.
+Apabila anda membuat satu repositori baru di Github, ia wujud sebagai sebuah repositori yang remote. Clone (Klon) adalah sebuah proses menyalin repositori ke dalam komputer anda dan asinkron di antara kedua lokasi tersebut. 
