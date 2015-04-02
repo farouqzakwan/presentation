@@ -99,7 +99,7 @@ $ git commit -m "ruang tulis komen"
 
 ![git commit](https://github.com/farouqzakwan/presentation/blob/master/screenshot/git%20commit%201.PNG)
 
-Arahan in digunakan setelah anda meletakkan file dan code anda dalam keadaan sedia dan anda berpuas hati dengan hasil kerja anda.Disinilah point-point atau titik rujukan yang akan disimpan oleh git.github membenarkan anda kembali kepada titik-titik rujukan ini sekiranya code anda selepas ini bermasalah atau anda membangunkan dua atau tiga versi yang berbeza. 
+Arahan ini digunakan setelah anda meletakkan file dan `kod` anda dalam keadaan sedia dan anda berpuas hati dengan hasil kerja anda. Disinilah poin-poin atau titik rujukan yang akan disimpan oleh git. Github membenarkan anda kembali kepada titik-titik rujukan ini sekiranya `kod-kod` anda selepas ini bermasalah atau anda membangunkan dua atau tiga versi yang berbeza. 
 
 ##8) git log
 
@@ -150,7 +150,7 @@ $ git push -u origin master
 
 ##11) Lain-lain
 
-Sehingga saat tutorial ini, banyak lagi perkara yang belum di bincangkan tentang cara penggunaan github..
-antara perkara tersebut adalah bagaimana menggunakan github untuk kerjasama kumpulan,menulis README.md dalam format markdown.report an issue.kembali ke snapshot commit yang lepas.
+Sehingga saat tutorial ini, banyak lagi perkara yang belum di bincangkan tentang cara penggunaan github. 
+Antara perkara tersebut adalah bagaimana menggunakan github untuk kerjasama kumpulan,menulis README.md dalam format markdown.report an issue.kembali ke snapshot commit yang lepas.
 
 Oleh itu saya amat mengharapkan anda dapat menambah baik tutorial ini dari semasa ke semasa.
