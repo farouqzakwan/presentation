@@ -154,3 +154,9 @@ Sehingga saat tutorial ini, banyak lagi perkara yang belum di bincangkan tentang
 Antara perkara tersebut adalah bagaimana menggunakan github untuk kerjasama kumpulan,menulis README.md dalam format markdown.report an issue.kembali ke snapshot commit yang lepas.
 
 Oleh itu saya amat mengharapkan anda dapat menambah baik tutorial ini dari semasa ke semasa.
+
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
