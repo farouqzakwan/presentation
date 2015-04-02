@@ -54,7 +54,7 @@ Di dalam perisian git bash anda, taip:-
 $ git init
 ```
 
-Arahan ini bermaksud anda sedia menjadikan directory dan subdirectories yang anda berada sekarang sebagai sebuah repository.
+Arahan ini bermaksud anda sedia menjadikan direktori dan subdirektori yang anda berada sekarang sebagai sebuah repositori.
 
 ![git init](https://github.com/farouqzakwan/presentation/blob/master/screenshot/git%20init.PNG)
 
@@ -72,24 +72,24 @@ atau
 $ git add farouq.txt
 ```
 
-`git add` merupakan arahan untuk anda meletakkan file dan code anda dalam keadaan staging atau dalam erti kata lain bersedia sebelum anda commit code anda.
+`git add` merupakan arahan untuk anda meletakkan file dan kod anda dalam keadaan _staging_ atau dalam erti kata lain bersedia sebelum anda `commit` kod anda.
 
 
-Perbezaan kedua-dua arahan di atas ialah, arahan pertama meletakkan semua file yang belum anda jejaki/rekod(file baru) atau file yang telah di ubah dalam keadaan sedia untuk di commit manakala arahan kedua lebih bersifat memilih file-file tertentu sahaja.
+Perbezaan kedua-dua arahan di atas ialah, arahan pertama meletakkan semua file yang belum anda jejaki/rekod(fail baru) atau fail yang telah di ubah dalam keadaan sedia untuk di `commit` manakala arahan kedua lebih bersifat memilih fail-fail tertentu sahaja.
 
 ![git add](https://github.com/farouqzakwan/presentation/blob/master/screenshot/git%20add%201.PNG)
 
-Dalam gambar di atas,terdapat dua baris perkataan yang berwarna merah..ini bermaksud terdapat dua file yang belum git jejak/rekod.
+Dalam gambar di atas, terdapat dua baris perkataan yang berwarna merah. Ini bermaksud terdapat dua fail yang belum git jejak atau direkod perubahannya.
 
 ##6) git status
 
-```
+```Shell
 $ git status
 ```
 
-Arahan git status di gunakan untuk memeriksa status-status file anda.
+Arahan git status di gunakan untuk memeriksa status-status fail anda.
 
-Setelah anda menaip arahan ini,anda akan dipaparkan status-status file anda samada terdapat file yang diubah (berwarna merah),sedia untuk di commit(berwarna hijau),konflik (berwarna merah),file yang telah di buang(berwarna merah),atau directory yang bersih.
+Setelah anda menaip arahan ini, anda akan dipaparkan status-status fail anda sama ada terdapat fail yang diubah (berwarna merah), sedia untuk di `commit` (berwarna hijau), konflik (berwarna merah), fail yang telah di buang (berwarna merah), atau direktori yang bersih.
 
 ##7) git commit
 
