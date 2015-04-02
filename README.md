@@ -155,8 +155,9 @@ Antara perkara tersebut adalah bagaimana menggunakan github untuk kerjasama kump
 
 Oleh itu saya amat mengharapkan anda dapat menambah baik tutorial ini dari semasa ke semasa.
 
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
+- [X] Asas Git
+- [ ] Belajar clone
+- [ ] Belajar Fork Repositori
+- [ ] Mendalami `Git remote`
+
+Sekian. Semoga bermanfaat
